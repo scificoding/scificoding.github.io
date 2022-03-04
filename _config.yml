@@ -7,14 +7,14 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column'
+title:            SciFi Coding
+tagline:          'AI research'
+description:      'AI Reasarch'
 url:              "https://scificoding.github.io"
 baseurl:          '/'
 
 author:
-  name:           'Mark Otto'
+  name:           'Karim'
   url:            https://twitter.com/mdo
 
 paginate:         5
