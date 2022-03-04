@@ -9,13 +9,13 @@ permalink:        pretty
 # Setup
 title:            SciFi Coding
 tagline:          'AI research'
-description:      'AI Reasarch'
+description:      'Grokking AI research'
 url:              "https://scificoding.github.io"
 baseurl:          '/'
 
 author:
   name:           'Karim'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/
 
 paginate:         5
 
