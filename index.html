@@ -12,10 +12,8 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    <span>{% if post.subtitle %}
-                    {{ post.subtitle }}
-      {% endif %} </span>
+    <span class="post-date">{{ post.date | date_to_string }} | {% if post.subtitle %} {{ post.subtitle }} {% endif %}</span>
+    
 
 <!--     {{ post.content }} -->
   </div>
